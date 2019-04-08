@@ -5,3 +5,16 @@ This jailbreak was written to be the most stable and easiest to use jailbreak fo
 Made by @Chr0nicT and his amazing team. 
 
 Code was not copied from any external source.
+=======
+iOS 12-12.1.2 Jailbreak (Powered By jelbrekLib)
+
+
+##DONE:
+[-] Root     
+[-] Sandbox Escape    
+[-] TFP0      
+
+## TODO:
+[-] Remount RootFS    
+[-] Install Bootstrap   
+[-] Fix Bugs (Performance)    
